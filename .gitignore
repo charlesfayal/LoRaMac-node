@@ -23,6 +23,8 @@ tmp/
 *.cogui
 *.comarker
 .directory
-.vscode/launch.json
 .cmaketools.json
 ipch/
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
